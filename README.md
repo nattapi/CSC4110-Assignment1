@@ -1,4 +1,4 @@
 # Github and git conflict
 # Github and git
-**Nataly Arredondo**
+**Nataly Yepez Rico**
 *GS7304*
